@@ -10,5 +10,4 @@ modprobe wl
 iwconfig
 
 echo 1 | sudo tee /proc/brcm_monitoro
-
-
+#Needs to be updated with new kernels & overall changes
